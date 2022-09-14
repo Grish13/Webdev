@@ -1,2 +1,2 @@
 # Webdev
-Web Development Projects/ Redesign/Cloning
+Web Development Projects/ Redesign DynamicGlobalSoft 70% done
